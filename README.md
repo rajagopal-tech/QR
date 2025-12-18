@@ -62,7 +62,7 @@ npm run build
 - **Styling**: Vanilla CSS
 
 ## Usage Tips
-- **Secret Key**: The default verification key is `my-fixed-secret-key`.
+- **Secret Key**: The default verification key is .
 - **JSON Format**: Ensure your input is valid JSON before encrypting.
 - **Clear Images**: For best results with image uploads, ensure the QR code is clear and well-lit.
 
